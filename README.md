@@ -15,3 +15,6 @@ add these line to the yml
     metrics_path: '/prometheus'
     static_configs:
       - targets: ['localhost:8080']
+
+
+thats all
